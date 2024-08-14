@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @githuanand
+- 👋 Hey there, I am Anand Mohan Jha(githuanand)
 - 👀 ASPIRING SOFTWARE DEVELOPER
 - 🌱 LEARNING NEW AND ADVANCED TECHNOLOGIES
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new technologies
 - 📫 Feel Free to reach me out here is my e-mail:- aj1001194@gmail.com
 
 <!---
