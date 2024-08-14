@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @githuanand
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Basis of development
+- 👀 ASPIRING SOFTWARE DEVELOPER
+- 🌱 LEARNING NEW AND ADVANCED TECHNOLOGIES
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Feel Free to reach me out here is my e-mail:- aj1001194@gmail.com
 
 <!---
 githuanand/githuanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
