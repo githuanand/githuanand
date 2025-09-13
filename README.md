@@ -9,21 +9,23 @@ I am a results-driven Software Engineer with expertise in Python Full Stack Deve
 
 ---
 
+### Core strengths include:
+
+Developing full-stack applications with clean, maintainable code
+Leveraging data analytics and AI/ML concepts to deliver intelligent solutions
+Applying strong debugging and problem-solving skills for robust performance
+Collaborating effectively in agile, team-based environments
+
+I am passionate about contributing to innovative projects, exploring Cloud, AI, and Generative AI technologies, and delivering solutions that align with business goals and user needs.
+
+---
+
 ## 🛠 Skills & Technologies
 
 - **Languages:** Java, Python, SQL, HTML, CSS, JavaScript  
 - **Frameworks & Tools:** Django, Bootstrap, Git/GitHub, VS Code  
 - **Methodologies:** Agile, SDLC, Object-Oriented Programming (OOP)  
 - **Other:** Problem Solving, Debugging, Team Collaboration  
-
----
-
-## 📌 About Me
-
-- 🌱 Learning & building projects in **Python Full Stack** and **Data Analytics**  
-- 💡 Interested in **Cloud**, **AI-ready solutions**, and **modern web applications**  
-- 🤝 Love collaborating in **team environments** to create impactful solutions  
-- 📊 Strong analytical thinking & proactive problem-solving skills  
 
 ---
 
