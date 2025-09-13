@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anand Mohan Jha  
+#  Hi, I'm Anand Mohan Jha  
 
 🎓 **Recent IT Graduate** | 💻 **Aspiring Software Engineer** | 🚀 **Tech Enthusiast**  
 
