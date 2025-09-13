@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Anand Mohan Jha
 🎓 **Recent IT Graduate** | 💻 **Aspiring Software Engineer** | 🚀 **Tech Enthusiast**  
 
-I’m passionate about turning ideas into efficient, scalable, and impactful software solutions.  
-Currently honing my skills in **Python Full Stack Development** and **Data Analysis** at QSpiders, Kolkata.  
+---
+
+## 👨‍💻 About Me
+
+I am a results-driven Software Engineer with expertise in Python Full Stack Development, Django, Java, SQL, and Data Analytics. I have a strong foundation in designing and deploying scalable, efficient, and user-focused applications, with hands-on experience across the software development lifecycle (SDLC).
 
 ---
 
