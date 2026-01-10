@@ -1,48 +1,66 @@
-# 👋 Hi, I'm Anand Mohan Jha
-🎓 **Recent IT Graduate** | 💻 **Aspiring Software Engineer** | 🚀 **Tech Enthusiast**  
+👋 Hi, I'm Anand Mohan Jha  
+🎓 B.Tech (Information Technology) Graduate | 💻 Python & Django Developer
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a results-driven Software Engineer with expertise in Python Full Stack Development, Django, Java, SQL, and Data Analytics. I have a strong foundation in designing and deploying scalable, efficient, and user-focused applications, with hands-on experience across the software development lifecycle (SDLC).
+I am a motivated IT graduate with hands-on experience in **Python Full Stack Development**, focused on **backend development**, **database-driven applications**, and **practical problem-solving**.
+
+I have built multiple real-world projects using **Python, Django, SQL, HTML, CSS, and JavaScript**, and I am continuously improving my skills in **JavaScript (MERN basics)** and **Data Analysis using NumPy and Pandas**.
+
+I enjoy writing clean, maintainable code and learning how systems work end-to-end — from database to UI.
 
 ---
 
-### Core strengths include:
+## 🔑 What I Do Well
 
-Developing full-stack applications with clean, maintainable code.
-
-Leveraging data analytics and AI/ML concepts to deliver intelligent solutions.
-
-Applying strong debugging and problem-solving skills for robust performance.
-
-Collaborating effectively in agile, team-based environments.
-
-I am passionate about contributing to innovative projects, exploring Cloud, AI, and Generative AI technologies, and delivering solutions that align with business goals and user needs.
+- Build **full-stack web applications** using Django
+- Design and work with **relational databases (SQL)**
+- Implement **CRUD operations, authentication, and APIs**
+- Apply **logical thinking and debugging** to solve problems
+- Learn new technologies with a strong fundamentals-first approach
 
 ---
 
 ## 🛠 Skills & Technologies
 
-- **Languages:** Java, Python, SQL, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Django, Bootstrap, Git/GitHub, VS Code  
-- **Methodologies:** Agile, SDLC, Object-Oriented Programming (OOP)  
-- **Other:** Problem Solving, Debugging, Team Collaboration  
+**Languages:**  
+Python, Java, SQL (Oracle 10g), HTML, CSS, JavaScript  
+
+**Frameworks & Tools:**  
+Django, Bootstrap, Git & GitHub, VS Code  
+
+**Concepts:**  
+Object-Oriented Programming (OOP), SDLC, Agile basics  
+
+**Currently Learning:**  
+JavaScript (MERN Stack), Data Analysis (NumPy, Pandas)
 
 ---
 
-## 📬 Connect With Me  
+## 📌 Featured Projects
 
-[![Email](https://img.shields.io/badge/Email-aj1001194%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aj1001194@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Mohan%20Jha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-githuanand-black?style=for-the-badge&logo=github)](https://github.com/githuanand)  
+- **Articles App (Django)**  
+  A Django-based application to create, list, and read articles with a clean and responsive UI.
+
+- **To-Do List Web App (Django)**  
+  Full-stack task management app with user authentication and CRUD operations.
+
+- **Weather App**  
+  A modern weather application providing real-time data using APIs.
+
+- **Data Science & AIML Projects**  
+  Practice notebooks covering Python-based data analysis and ML fundamentals.
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad." — Keep it simple, keep it smart.*  
+## 📬 Connect With Me
 
-<!---
-githuanand/githuanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 Email: aj1001194@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/anand-mohan-jha-55843924a  
+💻 HackerRank: https://www.hackerrank.com/profile/aj29092001  
+
+---
+
+💡 *“First, make it work. Then, make it right. Then, make it fast.”*
