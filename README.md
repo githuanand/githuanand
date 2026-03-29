@@ -2,21 +2,16 @@
 
 🚀 **Data Scientist | AI/ML Engineer**
 
-I specialize in building intelligent systems using Machine Learning, Generative AI, and data-driven approaches. I also have experience deploying AI models and building backend systems using Python and FastAPI.
+I build intelligent systems using Machine Learning, Generative AI, and data-driven approaches. I also have experience developing backend APIs and deploying models using Python and FastAPI.
 
 ---
 
 ## 🧠 About Me
 
-I am a B.Tech (Information Technology) graduate with hands-on experience in **Machine Learning, Data Analysis, and Backend Development**.
-
-I focus on:
-
-* Building AI-powered applications
-* Solving real-world problems using data
-* Deploying ML models into production systems
-
-I combine **AI + Backend + Cloud** to create scalable and practical solutions.
+* 🎓 B.Tech (Information Technology) Graduate
+* 🤖 Focused on AI/ML, Data Science, and backend systems
+* ⚙️ Interested in building scalable AI-powered applications
+* 📊 Strong in data analysis and visualization using Power BI
 
 ---
 
@@ -26,19 +21,24 @@ I combine **AI + Backend + Cloud** to create scalable and practical solutions.
 
 Python, SQL, JavaScript
 
-### 🤖 AI / Data Science
+### 🤖 AI and Machine Learning
 
-Machine Learning, NLP, Generative AI, NumPy, Pandas
+Machine Learning, Deep Learning, NLP, Generative AI
+TensorFlow, Keras, PyTorch, Scikit-learn
 
-### ⚙️ Backend & APIs
+### 📊 Data Science
+
+NumPy, Pandas, SciPy, Statsmodels
+
+### ⚙️ Backend
 
 FastAPI, Django, REST APIs
 
-### 📊 Data Visualization
+### 📈 Visualization
 
 Power BI
 
-### ☁️ Cloud & Tools
+### ☁️ Tools & Cloud
 
 AWS (Basics), Git, GitHub, Docker (Learning)
 
@@ -46,44 +46,42 @@ AWS (Basics), Git, GitHub, Docker (Learning)
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Chatbot System (GenAI)
+### 🔹 AI Chatbot API
 
-* Built an AI-powered chatbot using OpenAI API
-* Implemented NLP-based query handling
-* Designed backend using FastAPI
-
----
-
-### 🔹 Machine Learning Project with Deployment
-
-* Trained ML models for real-world datasets
-* Performed data preprocessing and feature engineering
-* Deployed model as an API using FastAPI
+* Built chatbot using OpenAI
+* Developed backend with FastAPI
+* Handles real-time user queries
 
 ---
 
-### 🔹 Data Analytics Dashboard (Power BI)
+### 🔹 ML Model Deployment
 
-* Built interactive dashboards for business insights
-* Analyzed trends and patterns using real datasets
-* Enabled data-driven decision-making
+* Trained ML model using Python
+* Deployed as API using FastAPI
+* Implemented data preprocessing pipeline
+
+---
+
+### 🔹 Data Analytics Dashboard
+
+* Built Power BI dashboard for insights
+* Analyzed trends and performance metrics
 
 ---
 
 ## 📈 Currently Learning
 
-* Advanced Machine Learning & Deep Learning
 * MLOps (Model Deployment & Monitoring)
+* Advanced AI & Deep Learning
 * Cloud Deployment (AWS)
 
 ---
 
 ## 📬 Connect With Me
 
-📧 Email: [aj1001194@gmail.com](mailto:aj1001194@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/anand-mohan-jha-55843924a
-💻 HackerRank: https://www.hackerrank.com/profile/aj29092001
+* 🔗 LinkedIn: https://linkedin.com/in/anand-mohan-jha-55843924a
+* 💻 GitHub: https://github.com/githuanand
 
 ---
 
-💡 *“Building intelligent systems that solve real-world problems.”*
+💡 *“Turning data into intelligent systems.”*
