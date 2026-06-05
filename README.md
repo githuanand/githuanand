@@ -1,87 +1,125 @@
 # 👋 Hi, I'm Anand Mohan Jha
 
-🚀 **Data Scientist | AI/ML Engineer**
+🚀 **Software Developer | AI & Data Science Enthusiast**
 
-I build intelligent systems using Machine Learning, Generative AI, and data-driven approaches. I also have experience developing backend APIs and deploying models using Python and FastAPI.
-
----
-
-## 🧠 About Me
-
-* 🎓 B.Tech (Information Technology) Graduate
-* 🤖 Focused on AI/ML, Data Science, and backend systems
-* ⚙️ Interested in building scalable AI-powered applications
-* 📊 Strong in data analysis and visualization using Power BI
+I enjoy building practical software solutions using Python, Django, FastAPI, JavaScript, and modern web technologies. Alongside software development, I actively explore Machine Learning, Data Science, and AI-powered applications.
 
 ---
 
-## 🔧 Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Languages
+* 🎓 B.Tech Graduate in Information Technology
+* 💻 Passionate about Full-Stack Development and Backend Engineering
+* 🤖 Exploring Artificial Intelligence, Machine Learning, and Generative AI
+* 📊 Interested in Data Analytics and Visualization
+* 🌱 Continuously learning new technologies and improving problem-solving skills
+* 🔥 Regularly practicing Data Structures & Algorithms
 
-Python, SQL, JavaScript
+---
 
-### 🤖 AI and Machine Learning
+## 🛠️ Tech Stack
 
-Machine Learning, Deep Learning, NLP, Generative AI
-TensorFlow, Keras, PyTorch, Scikit-learn
+### Languages
 
-### 📊 Data Science
+* Python
+* JavaScript
+* SQL
+* C++
 
-NumPy, Pandas, SciPy, Statsmodels
+### Backend Development
 
-### ⚙️ Backend
+* Django
+* FastAPI
+* REST APIs
 
-FastAPI, Django, REST APIs
+### Frontend Development
 
-### 📈 Visualization
+* HTML
+* CSS
+* JavaScript
 
-Power BI
+### Data Science & AI
 
-### ☁️ Tools & Cloud
+* NumPy
+* Pandas
+* Scikit-learn
+* TensorFlow
+* Keras
 
-AWS (Basics), Git, GitHub, Docker (Learning)
+### Databases
+
+* PostgreSQL
+* SQLite
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Docker (Learning)
+* AWS (Basics)
+* Power BI
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Chatbot API
+### 📌 Articles
 
-* Built chatbot using OpenAI
-* Developed backend with FastAPI
-* Handles real-time user queries
+A Django-based article management platform featuring article creation, listing, and responsive UI design.
 
----
+### 📌 To-Do List Application
 
-### 🔹 ML Model Deployment
+Full-stack Django application with:
 
-* Trained ML model using Python
-* Deployed as API using FastAPI
-* Implemented data preprocessing pipeline
+* User Authentication
+* Task Management (CRUD)
+* Responsive Design
 
----
+### 📌 Weather App
 
-### 🔹 Data Analytics Dashboard
+Modern JavaScript weather application with real-time weather updates and intuitive user experience.
 
-* Built Power BI dashboard for insights
-* Analyzed trends and performance metrics
+### 📌 LeetCode Solutions
+
+Collection of optimized Data Structures and Algorithms solutions with complexity analysis.
+
+### 📌 Real-Time Chat Application
+
+Production-ready chat application using:
+
+* React.js
+* FastAPI
+* PostgreSQL
+* JWT Authentication
+* WebSockets
 
 ---
 
 ## 📈 Currently Learning
 
-* MLOps (Model Deployment & Monitoring)
-* Advanced AI & Deep Learning
-* Cloud Deployment (AWS)
+* Advanced Django & FastAPI
+* System Design Fundamentals
+* Docker & Containerization
+* Cloud Deployment on AWS
+* MLOps & AI Deployment
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Stats
 
-* 🔗 LinkedIn: https://linkedin.com/in/anand-mohan-jha-55843924a
-* 💻 GitHub: https://github.com/githuanand
+* Consistent contributor and active learner
+* Open-source enthusiast
+* Building projects to strengthen software engineering skills
 
 ---
 
-💡 *“Turning data into intelligent systems.”*
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/anand-mohan-jha-55843924a
+* GitHub: github.com/githuanand
+
+---
+
+### 💡 Quote
+
+*"Building software that solves real-world problems and continuously learning along the journey."*
