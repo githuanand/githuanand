@@ -123,3 +123,11 @@ Production-ready chat application using:
 ### 💡 Quote
 
 *"Building software that solves real-world problems and continuously learning along the journey."*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/githuanand/githuanand/tree/main/1291-sequential-digits/) | Medium |
+<!---LeetCode Topics End-->
