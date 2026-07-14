@@ -130,4 +130,20 @@ Production-ready chat application using:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/githuanand/githuanand/tree/main/1291-sequential-digits/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/githuanand/githuanand/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/githuanand/githuanand/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/githuanand/githuanand/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/githuanand/githuanand/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
